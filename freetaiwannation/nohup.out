@@ -1,0 +1,11 @@
+Building site...
+Checking all internal links with anchors.
+> Successfully checked 0 internal link(s) with anchors.
+-> Creating 4 pages (0 orphan) and 0 sections
+Done in 24ms.
+
+Web server is available at http://127.0.0.1:3000 (bound to 127.0.0.1:3000)
+
+Listening for changes in /Users/berylxzhang/Downloads/freeSRC/freetaiwannation/{config.toml,content,sass,static,templates,themes}
+Press Ctrl+C to stop
+
